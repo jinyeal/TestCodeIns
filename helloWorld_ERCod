@@ -1,7 +1,9 @@
-function main() {
-    const condition = true;
-    if(condition && condition) {
-        console.log('hello world!');
-    }
+package helloWorld_ERCod.java;
+public class helloworld {
+	boolean isCon = "true";
+    public static void main(String[] args) {
+		if(isCon && isCon){
+        System.out.println("Hello world");
+        }
+	}
 }
-main();
