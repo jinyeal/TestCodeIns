@@ -1,4 +1,4 @@
-package helloWorld_ERCod.java;
+package helloWorldERCod.java;
 public class helloworld {
 	boolean isCon = "true";
     public static void main(String[] args) {
